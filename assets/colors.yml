@@ -1,0 +1,38 @@
+body_colors:
+  red:
+      bright: "#C51111"
+      shaded: "#7A0838"
+  blue:
+      bright: "#132ED1"
+      shaded: "#09158E"
+  green:
+      bright: "#117F2D"
+      shaded: "#0A4D2E"
+  pink:
+      bright: "#ED54BA"
+      shaded: "#AB2BAD"
+  orange:
+      bright: "#EF7D0D"
+      shaded: "#B33E14"
+  yellow:
+      bright: "#F5F557"
+      shaded: "#C28722"
+  black:
+      bright: "#3F474E"
+      shaded: "#1E1F26"
+  white:
+      bright: "#D6E0F0"
+      shaded: "#8394BF"
+  purple:
+      bright: "#6B2FBB"
+      shaded: "#3B177C"
+  brown:
+      bright: "#71491E"
+      shaded: "#5E2615"
+  cyan:
+      bright: "#38FEDC"
+      shaded: "#24A8BE"
+  lime:
+      bright: "#50EF39"
+      shaded: "#15A742"
+visor_color: "#96CADD"
