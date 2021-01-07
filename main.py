@@ -3,7 +3,6 @@ import yaml
 import numpy as np
 from PIL import Image
 import matplotlib as mpl
-import matplotlib.pyplot as plt
 
 
 def get_colored_character(texturefile, bodycolor, shadedbodycolor, visorcolor):
